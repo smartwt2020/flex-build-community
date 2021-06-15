@@ -1,0 +1,34 @@
+
+.fa {
+  font-style: normal;
+}
+
+.fa-home:before {
+  content: "\f015";
+}
+
+.fa-navicon:before,
+.fa-reorder:before,
+.fa-bars:before {
+  content: "\f0c9";
+}
+
+.fa-search:before {
+  content: "\f002";
+}
+
+.fa-arrow-left:before {
+  content: "\f060";
+}
+.fa-arrow-right:before {
+  content: "\f061";
+}
+
+.fa-eye:before {
+  content: "\f06e";
+}
+
+.fa-warning:before,
+.fa-exclamation-triangle:before {
+  content: "\f071";
+}

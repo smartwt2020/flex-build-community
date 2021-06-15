@@ -1,0 +1,58 @@
+[
+  {
+    "name": "community",
+    "path": "/community",
+    "component": "/home/pikachu/Desktop/workspace/flex-build-workspace/flex-build-community/pages/community/index.vue",
+    "chunkName": "pages/community/index",
+    "_name": "_0fb0911b"
+  },
+  {
+    "name": "community-kb",
+    "path": "/community/kb",
+    "component": "/home/pikachu/Desktop/workspace/flex-build-workspace/flex-build-community/pages/community/kb/index.vue",
+    "chunkName": "pages/community/kb/index",
+    "_name": "_b8b8893e"
+  },
+  {
+    "name": "community-questions",
+    "path": "/community/questions",
+    "component": "/home/pikachu/Desktop/workspace/flex-build-workspace/flex-build-community/pages/community/questions/index.vue",
+    "chunkName": "pages/community/questions/index",
+    "_name": "_c3e79cce"
+  },
+  {
+    "name": "community-kb-blog",
+    "path": "/community/kb/blog",
+    "component": "/home/pikachu/Desktop/workspace/flex-build-workspace/flex-build-community/pages/community/kb/blog/index.vue",
+    "chunkName": "pages/community/kb/blog/index",
+    "_name": "_2586dda6"
+  },
+  {
+    "name": "community-kb-mfilter",
+    "path": "/community/kb/mfilter",
+    "component": "/home/pikachu/Desktop/workspace/flex-build-workspace/flex-build-community/pages/community/kb/mfilter.vue",
+    "chunkName": "pages/community/kb/mfilter",
+    "_name": "_41515574"
+  },
+  {
+    "name": "community-kb-blog-id",
+    "path": "/community/kb/blog/:id",
+    "component": "/home/pikachu/Desktop/workspace/flex-build-workspace/flex-build-community/pages/community/kb/blog/_id/index.vue",
+    "chunkName": "pages/community/kb/blog/_id/index",
+    "_name": "_c66694de"
+  },
+  {
+    "name": "community-kb-blog-id-name",
+    "path": "/community/kb/blog/:id/:name",
+    "component": "/home/pikachu/Desktop/workspace/flex-build-workspace/flex-build-community/pages/community/kb/blog/_id/_name.vue",
+    "chunkName": "pages/community/kb/blog/_id/_name",
+    "_name": "_4008b429"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/pikachu/Desktop/workspace/flex-build-workspace/flex-build-community/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_dbc7c6fe"
+  }
+]

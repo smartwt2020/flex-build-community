@@ -1,0 +1,12 @@
+$breakpoint: 768px;
+@media (max-width: $breakpoint) {
+  .desktop-only {
+    display: none !important;
+  }
+}
+
+@media (min-width: $breakpoint) {
+  .mobile-only {
+    display: none !important;
+  }
+}

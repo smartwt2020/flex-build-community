@@ -1,0 +1,43 @@
+.flex {
+  display: flex;
+}
+
+.block {
+  display: block;
+}
+
+.none {
+  display: none;
+}
+
+.space-between {
+  display: flex;
+  justify-content: space-between;
+}
+
+.space-even {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.space-around {
+  display: flex;
+  justify-content: space-around;
+}
+
+.h-center {
+  display: flex;
+  justify-content: center;
+}
+
+.v-center {
+  display: flex;
+  align-items: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
